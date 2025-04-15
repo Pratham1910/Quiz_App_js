@@ -75,6 +75,4 @@ The app uses console logs to help trace the process:
 - Add timer for each question
 - Style using modern CSS frameworks
 
----
 
-Let me know if you want a styled version with Tailwind or Bootstrap!
