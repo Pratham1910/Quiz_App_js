@@ -75,7 +75,7 @@ The app uses console logs to help trace the process:
 - Add timer for each question
 - Style using modern CSS frameworks
 
-## Can Visit this link for femo
+## Can Visit this link for demo
 
 - https://quiz-app-js-beryl.vercel.app/
 
